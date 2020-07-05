@@ -1,2 +1,2 @@
 # coursera
-anything related with courera
+anything related with coursera
