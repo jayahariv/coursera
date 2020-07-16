@@ -10,7 +10,8 @@ Main components we need to choose inorder to build a FM Radio Receiver are:
 5. Audio device, for hearing the sound like speaker or headphone 
 6. Microcontroller
 
-![design](https://user-images.githubusercontent.com/10448770/87686760-bf9ca980-c739-11ea-8605-a519c6e76577.png)
+![design1](https://user-images.githubusercontent.com/10448770/87687977-3dad8000-c73b-11ea-8bae-9c90728545c9.png)
+
 
 ## Design options
 ### 1. FM Tuner Si4703
